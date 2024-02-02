@@ -1,0 +1,10 @@
+img {
+    transition: transform 0.3s ease-in-out;
+  }
+
+
+img:hover{
+    background-color:yellow ;
+    transform: scale(1.1);
+
+}
